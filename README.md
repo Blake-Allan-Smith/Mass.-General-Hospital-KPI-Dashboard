@@ -43,4 +43,4 @@ The analysis provides a snapshot of Massachusetts General Hospital performance a
 
 
 # Information
-[Dataset](https://mavenanalytics.io/challenges/maven-hospital-challenge/facee4d2-8369-4c87-a55e-e6c7ed2a42d8?utm_source=linkedin&utm_campaign=mavenhospitalchallenge_cd20240627\)
+![Dataset](https://mavenanalytics.io/challenges/maven-hospital-challenge/facee4d2-8369-4c87-a55e-e6c7ed2a42d8?utm_source=linkedin&utm_campaign=mavenhospitalchallenge_cd20240627\)
