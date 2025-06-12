@@ -34,13 +34,23 @@ The analysis provides a snapshot of Massachusetts General Hospital performance a
   - This uninsured rate and increased costs highlight the need for improved insurance coverage and financial support to ensure equitable healthcare access and financial sustainability for the hospital.
 
 # Recommendations
-
+- Sustain Low Readmission Rates: MGH should continue to implement the changes introduced during the pandemic that helped reduce the readmission rate to below 5%.
+- Improve Patient Throughput: Reducing the length of stay for admitted patients to pre-pandemic levels is critical for optimizing hospital resources and improving patient throughput.
+- Increase Insurance Coverage: The hospital should work on initiatives to improve insurance coverage among patients, particularly for those in high-cost demographics such as middle-aged adults.
+- Support for Uninsured Patients: Implementing financial assistance programs for uninsured patients could alleviate the burden of high medical costs and improve access to care.
 
 # Questions for Stakeholders
-
+- What interval do you use for measuring readmissions: 30, 60, or 90 days after a previous admission?
+- Should readmissions be related to the same medical conditions or reasons as the initial admission?
+- How are encounter entries recorded? Given that some admissions are logged exactly 24 hours apart, how should these be treated? Are these entries reset daily, or should they be considered continuous admissions?
 
 # Assumptions
-
+- The readmission rates are based on a 30-day interval for returning patients.
+- Encounters are considered readmissions regardless of previous reason for visit.
+- Drop in readmission rate on 2020 onwards was assumed to be caused by the pandemic.
+- Length of stay calculations only include encounters labeled as inpatient admissions.
+- Cost data reflects a spike in expenses during the pandemic period (2020), which may not represent typical operational conditions.
 
 # Information
-![Dataset](https://mavenanalytics.io/challenges/maven-hospital-challenge/facee4d2-8369-4c87-a55e-e6c7ed2a42d8?utm_source=linkedin&utm_campaign=mavenhospitalchallenge_cd20240627\)
+[Dataset used](https://mavenanalytics.io/challenges/maven-hospital-challenge/facee4d2-8369-4c87-a55e-e6c7ed2a42d8?utm_source=linkedin&utm_campaign=mavenhospitalchallenge_cd20240627\).
+Visit my portfolio [here](https://blakeallansmith.wixsite.com/portfolio).
