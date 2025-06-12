@@ -1,10 +1,9 @@
-![Dashboard](images/KPI%20Dashboard.png)
-
 # Project Background
-For this project I "worked" as a data analyst for the Massachusetts General Hospital. I was give the task of creating a KPI report for the executive team in order to provide them insights on compay data. The report included 28,000 patient records ranging from 2011 to 2022, covering around 1,000 unique patients, their insurance coverage, and medical encounters. The goal was to transform the data into actionable insights to display the hospital's performance over the past years. The analysis focused on admissions and readmissions of patients, their length of stay at the hospital, procedural costs, allowing for more insightful decisions to be made in these areas.
+For this project I "worked" as a data analyst for the Massachusetts General Hospital. I was give the task of creating a KPI report for the executive team in order to provide them insights on company data. The report included 28,000 patient records ranging from 2011 to 2022, covering around 1,000 unique patients, their insurance coverage, and medical encounters. The goal was to transform the data into actionable insights to display the hospital's performance over the past years. The analysis focused on admissions and readmissions of patients, their length of stay at the hospital, procedural costs, allowing for more insightful decisions to be made in these areas.
 
 # Executive Summary
 The analysis provides a snapshot of Massachusetts General Hospital performance across admissions and readmissions, their length of stay, and cost per visit. From a total of 28,000 encounters, 1,135 were admitted into the hospital. Notably, the readmission rate of patients dropped significantly during COVID-19, and the average cost per stay skyrocketed during 2020 at the peak of COVID-19. These stats imply that there are oppurtunities for operational improvements and cost reductions, especially for patients who are uninsured as they faced much higher costs. 
+![Dashboard](images/KPI%20Dashboard.png)
 
 # Summary of Insights
 - **Patient Admissions & Readmissions:**
@@ -47,7 +46,7 @@ The analysis provides a snapshot of Massachusetts General Hospital performance a
 # Assumptions
 - The readmission rates are based on a 30-day interval for returning patients.
 - Encounters are considered readmissions regardless of previous reason for visit.
-- Drop in readmission rate on 2020 onwards was assumed to be caused by the pandemic.
+- Drop-in readmission rate in 2020 onwards was assumed to be caused by the pandemic.
 - Length of stay calculations only include encounters labeled as inpatient admissions.
 - Cost data reflects a spike in expenses during the pandemic period (2020), which may not represent typical operational conditions.
 
