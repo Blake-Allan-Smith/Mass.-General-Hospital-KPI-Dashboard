@@ -52,5 +52,5 @@ The analysis provides a snapshot of Massachusetts General Hospital performance a
 - Cost data reflects a spike in expenses during the pandemic period (2020), which may not represent typical operational conditions.
 
 # Information
-[Dataset used](https://mavenanalytics.io/challenges/maven-hospital-challenge/facee4d2-8369-4c87-a55e-e6c7ed2a42d8?utm_source=linkedin&utm_campaign=mavenhospitalchallenge_cd20240627\).
+[Dataset used](https://mavenanalytics.io/challenges/maven-hospital-challenge/facee4d2-8369-4c87-a55e-e6c7ed2a42d8?utm_source=linkedin&utm_campaign=mavenhospitalchallenge_cd20240627).  
 Visit my portfolio [here](https://blakeallansmith.wixsite.com/portfolio).
